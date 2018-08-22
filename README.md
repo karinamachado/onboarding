@@ -1,4 +1,4 @@
-# Overboarding
+# Onboarding
 Official Guide for new developers members
 
 ## First steps:
