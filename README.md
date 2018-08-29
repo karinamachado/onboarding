@@ -121,8 +121,51 @@ You can also put here your links of study to help your work fellows, just edit t
 
 
 #### Tips:
-* Playslists:
+* Playlists:
+
+  We recommed some spotify playlists to help you have focus, concentration and fun time in work
+  
+  * :musical_note: **Relax and Unmind** - https://open.spotify.com/user/spotify/playlist/37i9dQZF1DWU0ScTcjJBdj
+  * :musical_note: **Songs to sing in the car** - https://open.spotify.com/user/spotify/playlist/37i9dQZF1DWWMOmoXKqHTD
+  * :musical_note: **SWW2017 - GRL PWR** - https://open.spotify.com/user/alinesilveira/playlist/4FKMfc1YW5Not5S5nWuOYS
+  * :musical_note: **Momento Zen** - https://open.spotify.com/user/buscofembr/playlist/5wcOC2zb12fT0oRUkDGlPH
+  * :musical_note: **Programming** - https://open.spotify.com/user/johanbrook/playlist/2mtlhuFVOFMn6Ho3JmrLc2
+  * :musical_note: **Desplugado** - https://open.spotify.com/user/spotify/playlist/37i9dQZF1DX7nC9vdKqBZ5
+
 * Are you ansious?
+  
+  If you are ansious, we recommend take a break, breathe and pratice a little of meditation.
+  You can pratice **mindfulness**.
+
+  We have a book about mindfulness and helps you how pratice it everyday.
+  You can read more about it [here](https://www.iniciativamindfulness.com.br/oque)
+  Also, you can download [**Calm**](https://www.calm.com/) app to pratice mindfulness, focus and have a relax time.
+
 * Are you unmotivated? 
+  
+  If you are unmotivated, we recommend take a break, watch a comedy video, smile a little and back to your work. **Don't try still work if you aren't thinking it!**
+  
+  If you need a break to organize your ideas, take a break and have a coffee or tea time! :coffee: :tea:
+
+  Then, back to work and have your productive time! :heart:
+
 * Do you need help to organize your work, hours or life?
+  
+  If you think you have been disorganized, maybe you need take a time to organize your ideas.
+  You can read some tips in this [blog](https://vidaorganizada.com/)
+
+  Anyway, you can start create a sheet with your fixed activities and try fit other activities you want to do. **Just don't forget have a relax time!**
+
+  I (Lhaís Rodrigues) use a organization method to help me don't lost the control of my tasks or anything else. It calls [GTD - Getting Things Done](https://gettingthingsdone.com/)
+  I apply this method in [Todoist](https://todoist.com) and works very well!
+  We have a book talk about it in our Libray!
+
 * Do you need tips for financial education?
+  
+  If you think, you don't have money to buy or have all the stuffs you want maybe you need to create a financial education.
+
+  You can read some tips in these blogs:
+  * [**Finanças Femininas**](https://financasfemininas.com.br/)
+  * [**Me Poupe!**](http://mepoupenaweb.uol.com.br/)
+
+  But, you can start **save 10% of your salary** each month. It'll help you have a little savings.
