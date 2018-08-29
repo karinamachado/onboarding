@@ -68,7 +68,10 @@ Official Guide for new developers members
 You can also put here your links of study to help your work fellows, just edit this [**README.md**](https://github.com/meteacolher/onboarding/blob/master/README.md)
 
 #### Our culture work:
-* Library:
+* Library: 
+  We have simple libary with books and ebooks. 
+  You can acess the ebooks in our [Google Drive Folder](https://drive.google.com/open?id=1EnDg8twChbCLBKIV2T3dVgP715rXnA8Z) in **BIBLIOTECA > EBOOKS**. We have ebooks of Development, Design and Business! Feel free to pick any of these ebooks.
+  All of our books is in **Jump** and we concetrate all of it there. You can see all of our books [here](https://drive.google.com/open?id=1es6DFswvtE-uriYD_Eqoc90DTMemY2hhqXt7OYnycRw) in our loan sheet if it is free or not. If you want a book which it's lent, you can talk with the actual responsible to know when it will be free.
 * Communication:
 * Trello:
 * Work time:
