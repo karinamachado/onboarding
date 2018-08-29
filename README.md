@@ -32,6 +32,19 @@ Official Guide for new developers members
 * [Sendgrid](https://sendgrid.com/docs/index.html)
 
 #### Study:
+##### React JS:
+
+##### HTML:
+
+##### CSS:
+
+##### Mocha.js:
+
+##### Swift:
+
+##### Kotlin:
+
+##### Firebase:
 
 #### Our culture work:
 * Library:
