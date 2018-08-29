@@ -76,7 +76,26 @@ You can also put here your links of study to help your work fellows, just edit t
   
   All of our books is in **Jump** and we concetrate all of it there. You can see all of our books [here](https://drive.google.com/open?id=1es6DFswvtE-uriYD_Eqoc90DTMemY2hhqXt7OYnycRw) in our loan sheet if it is free or not. If you want a book which it's lent, you can talk with the actual responsible to know when it will be free.
 * Communication:
+  
+  Our communication is in [Slack](https://slack.com/). 
+  Communication is one of our values as a company and we think it's very important!
+
+  Every morning at 10:00 am, we make our **Scrum Daily** with all teams in Slack: 
+  * Development - iOS, Android and Web
+  * Design
+  * Management
+  
+  We use each channels in slack to make our Scrum Daily
+
 * Trello:
+  
+  We use [Trello](https://trello.com/) to manage our work and analyze our tasks progress. 
+  
+  You can acess our team in Trello [here](https://trello.com/meteacolher/) and we have a board for each team:
+  * [Development](https://trello.com/b/9My5VEBs)
+  * [Design](https://trello.com/b/6jwIywa6)
+  * [Management](https://trello.com/b/a03CBRdf)
+
 * Work time:
 * Jobtracking:
 * Workshop/Presentation:
