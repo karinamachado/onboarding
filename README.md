@@ -70,22 +70,22 @@ You can also put here your links of study to help your work fellows, just edit t
 #### Our culture work:
 * Library: 
   
-  We have simple libary with books and ebooks. 
+  We have simple library with books and ebooks. 
   
   You can acess the ebooks in our [Google Drive Folder](https://drive.google.com/open?id=1EnDg8twChbCLBKIV2T3dVgP715rXnA8Z) in **BIBLIOTECA > EBOOKS**. We have ebooks of Development, Design and Business! Feel free to pick any of these ebooks.
   
-  All of our books is in **Jump** and we concetrate all of it there. You can see all of our books [here](https://drive.google.com/open?id=1es6DFswvtE-uriYD_Eqoc90DTMemY2hhqXt7OYnycRw) in our loan sheet if it is free or not. If you want a book which it's lent, you can talk with the actual responsible to know when it will be free.
+  All of our books is in **Jump** and we concetrate all of it there. You can see all of our books [here](https://drive.google.com/open?id=1es6DFswvtE-uriYD_Eqoc90DTMemY2hhqXt7OYnycRw) in our loan sheet if it is available or not. If you want a book which it's lent, you can talk with the actual responsible to know when it will be free.
 * Communication:
   
   Our communication is in [Slack](https://slack.com/). 
   Communication is one of our values as a company and we think it's very important!
 
-  Every morning at 10:00 am, we make our **Scrum Daily** with all teams in Slack: 
+  Every morning at 10:00 am, we do our **Scrum Daily** with all teams in Slack: 
   * Development - iOS, Android and Web
   * Design
   * Management
   
-  We use each channels in slack to make our Scrum Daily
+  We use teams channels to do our Scrum Daily
 
 * Trello:
   
@@ -96,17 +96,19 @@ You can also put here your links of study to help your work fellows, just edit t
   * [Design](https://trello.com/b/6jwIywa6)
   * [Management](https://trello.com/b/a03CBRdf)
 
+  **Only team members can acess**
+
 * Jobtracking:
   
   We are developing a little system to track our work time but currently we use [this](https://drive.google.com/open?id=1Bf5iWwV11kE6faCvVgGxeKg7SZaiUU3-U77vMv-yDGw) sheet to track our job.
-  You just put the date with time of work, what you did and if you have some troubles or find a new link of study or anything else just put in observations.
+  You just put the date with time of work, what you did and if you have some troubles or find a new link of study or anything else in observations.
 
 * Workshop/Presentation:
 
   We are creating a culture of share knowledge. Then, once a month we are having a workshop or presentation moment which one person of development, design or business are going to talk about a new thing that she learned. 
   We plan start in September and each meeting will be in the end of each month.
 
-  We are also thinking to create external meeting to the community to share with them our new knowledge.
+  We are also thinking to create external meetings to the community to share with them.
 
   We will provide soon how will be these moments and how you can "submit" your workshop/presentation!
 
