@@ -96,10 +96,26 @@ You can also put here your links of study to help your work fellows, just edit t
   * [Design](https://trello.com/b/6jwIywa6)
   * [Management](https://trello.com/b/a03CBRdf)
 
-* Work time:
 * Jobtracking:
+  
+  We are developing a little system to track our work time but currently we use [this](https://drive.google.com/open?id=1Bf5iWwV11kE6faCvVgGxeKg7SZaiUU3-U77vMv-yDGw) sheet to track our job.
+  You just put the date with time of work, what you did and if you have some troubles or find a new link of study or anything else just put in observations.
+
 * Workshop/Presentation:
+
+  We are creating a culture of share knowledge. Then, once a month we are having a workshop or presentation moment which one person of development, design or business are going to talk about a new thing that she learned. 
+  We plan start in September and each meeting will be in the end of each month.
+
+  We are also thinking to create external meeting to the community to share with them our new knowledge.
+
+  We will provide soon how will be these moments and how you can "submit" your workshop/presentation!
+
 * Happy hour:
+
+  We'll have a happy hour moment each Friday in the end of each month.
+  It will be a moment to talk about of our life, know each other better with some :beer:. Just a little time to have fun and relax!
+
+  We'll talk about of our happy hour in **#random** channel in Slack.
 
 
 #### Tips:
