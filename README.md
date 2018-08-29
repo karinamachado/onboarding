@@ -129,7 +129,7 @@ You can also put here your links of study to help your work fellows, just edit t
   * **Songs to sing in the car** - https://open.spotify.com/user/spotify/playlist/37i9dQZF1DWWMOmoXKqHTD
   * **SWW2017 - GRL PWR** - https://open.spotify.com/user/alinesilveira/playlist/4FKMfc1YW5Not5S5nWuOYS
   * **Momento Zen** - https://open.spotify.com/user/buscofembr/playlist/5wcOC2zb12fT0oRUkDGlPH
-  * :musical_note: **Programming** - https://open.spotify.com/user/johanbrook/playlist/2mtlhuFVOFMn6Ho3JmrLc2
+  * **Programming** - https://open.spotify.com/user/johanbrook/playlist/2mtlhuFVOFMn6Ho3JmrLc2
   * **Desplugado** - https://open.spotify.com/user/spotify/playlist/37i9dQZF1DX7nC9vdKqBZ5
 
 * :dizzy_face: **Are you ansious?**
