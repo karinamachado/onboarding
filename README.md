@@ -68,14 +68,14 @@ Official Guide for new developers members
 You can also put here your links of study to help your work fellows, just edit this [**README.md**](https://github.com/meteacolher/onboarding/blob/master/README.md)
 
 #### Our culture work:
-* Library: 
+* **Library**: 
   
   We have simple library with books and ebooks. 
   
   You can acess the ebooks in our [Google Drive Folder](https://drive.google.com/open?id=1EnDg8twChbCLBKIV2T3dVgP715rXnA8Z) in **BIBLIOTECA > EBOOKS**. We have ebooks of Development, Design and Business! Feel free to pick any of these ebooks.
   
   All of our books is in **Jump** and we concetrate all of it there. You can see all of our books [here](https://drive.google.com/open?id=1es6DFswvtE-uriYD_Eqoc90DTMemY2hhqXt7OYnycRw) in our loan sheet if it is available or not. If you want a book which it's lent, you can talk with the actual responsible to know when it will be free.
-* Communication:
+* **Communication**:
   
   Our communication is in [Slack](https://slack.com/). 
   Communication is one of our values as a company and we think it's very important!
@@ -87,7 +87,7 @@ You can also put here your links of study to help your work fellows, just edit t
   
   We use teams channels to do our Scrum Daily
 
-* Trello:
+* **Trello**:
   
   We use [Trello](https://trello.com/) to manage our work and analyze our tasks progress. 
   
@@ -98,12 +98,12 @@ You can also put here your links of study to help your work fellows, just edit t
 
   **Only team members can acess**
 
-* Jobtracking:
+* **Jobtracking**:
   
   We are developing a little system to track our work time but currently we use [this](https://drive.google.com/open?id=1Bf5iWwV11kE6faCvVgGxeKg7SZaiUU3-U77vMv-yDGw) sheet to track our job.
   You just put the date with time of work, what you did and if you have some troubles or find a new link of study or anything else in observations.
 
-* Workshop/Presentation:
+* **Workshop/Presentation**:
 
   We are creating a culture of share knowledge. Then, once a month we are having a workshop or presentation moment which one person of development, design or business are going to talk about a new thing that she learned. 
   We plan start in September and each meeting will be in the end of each month.
@@ -112,7 +112,7 @@ You can also put here your links of study to help your work fellows, just edit t
 
   We will provide soon how will be these moments and how you can "submit" your workshop/presentation!
 
-* Happy hour:
+* **Happy hour**:
 
   We'll have a happy hour moment each Friday in the end of each month.
   It will be a moment to talk about of our life, know each other better with some :beer:. Just a little time to have fun and relax!
@@ -121,46 +121,46 @@ You can also put here your links of study to help your work fellows, just edit t
 
 
 #### Tips:
-* Playlists:
+* :musical_note: **Playlists**:
 
-  We recommed some spotify playlists to help you have focus, concentration and fun time in work
+  We recommed some spotify playlists to help you have focus, concentration and funny time in work
   
-  * :musical_note: **Relax and Unmind** - https://open.spotify.com/user/spotify/playlist/37i9dQZF1DWU0ScTcjJBdj
-  * :musical_note: **Songs to sing in the car** - https://open.spotify.com/user/spotify/playlist/37i9dQZF1DWWMOmoXKqHTD
-  * :musical_note: **SWW2017 - GRL PWR** - https://open.spotify.com/user/alinesilveira/playlist/4FKMfc1YW5Not5S5nWuOYS
-  * :musical_note: **Momento Zen** - https://open.spotify.com/user/buscofembr/playlist/5wcOC2zb12fT0oRUkDGlPH
+  * **Relax and Unmind** - https://open.spotify.com/user/spotify/playlist/37i9dQZF1DWU0ScTcjJBdj
+  * **Songs to sing in the car** - https://open.spotify.com/user/spotify/playlist/37i9dQZF1DWWMOmoXKqHTD
+  * **SWW2017 - GRL PWR** - https://open.spotify.com/user/alinesilveira/playlist/4FKMfc1YW5Not5S5nWuOYS
+  * **Momento Zen** - https://open.spotify.com/user/buscofembr/playlist/5wcOC2zb12fT0oRUkDGlPH
   * :musical_note: **Programming** - https://open.spotify.com/user/johanbrook/playlist/2mtlhuFVOFMn6Ho3JmrLc2
-  * :musical_note: **Desplugado** - https://open.spotify.com/user/spotify/playlist/37i9dQZF1DX7nC9vdKqBZ5
+  * **Desplugado** - https://open.spotify.com/user/spotify/playlist/37i9dQZF1DX7nC9vdKqBZ5
 
-* Are you ansious?
+* :dizzy_face: **Are you ansious?**
   
-  If you are ansious, we recommend take a break, breathe and pratice a little of meditation.
+  If you are ansious, we recommend take a break, breath and pratice a little of meditation.
   You can pratice **mindfulness**.
 
   We have a book about mindfulness and helps you how pratice it everyday.
-  You can read more about it [here](https://www.iniciativamindfulness.com.br/oque)
+  You can read more about it [here](https://www.iniciativamindfulness.com.br/oque).
   Also, you can download [**Calm**](https://www.calm.com/) app to pratice mindfulness, focus and have a relax time.
 
-* Are you unmotivated? 
+* :tired_face: **Are you unmotivated?** 
   
-  If you are unmotivated, we recommend take a break, watch a comedy video, smile a little and back to your work. **Don't try still work if you aren't thinking it!**
+  If you are unmotivated, we recommend take a break, watch a comedy video, have a funny time and back to your work. **Don't try still work if you aren't thinking it!**
   
-  If you need a break to organize your ideas, take a break and have a coffee or tea time! :coffee: :tea:
+  If you need a time to organize your ideas, take a break and have a coffee or tea time! :coffee: :tea:
 
   Then, back to work and have your productive time! :heart:
 
-* Do you need help to organize your work, hours or life?
+* :calendar: **Do you need help to organize your work, hours or life?**
   
   If you think you have been disorganized, maybe you need take a time to organize your ideas.
-  You can read some tips in this [blog](https://vidaorganizada.com/)
+  You can read some tips in this [blog](https://vidaorganizada.com/).
 
   Anyway, you can start create a sheet with your fixed activities and try fit other activities you want to do. **Just don't forget have a relax time!**
 
-  I (Lhaís Rodrigues) use a organization method to help me don't lost the control of my tasks or anything else. It calls [GTD - Getting Things Done](https://gettingthingsdone.com/)
+  I (Lhaís Rodrigues) use a organization method to help me don't lost the control of my tasks or anything else. It calls [GTD - Getting Things Done](https://gettingthingsdone.com/).
   I apply this method in [Todoist](https://todoist.com) and works very well!
-  We have a book talk about it in our Libray!
+  We have a book about it in our Libray!
 
-* Do you need tips for financial education?
+* :moneybag: **Do you need tips for financial education?**
   
   If you think, you don't have money to buy or have all the stuffs you want maybe you need to create a financial education.
 
