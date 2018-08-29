@@ -65,7 +65,7 @@ Official Guide for new developers members
 * Official Documentation: https://firebase.google.com/docs/
 * Intro to Firebase and React: https://css-tricks.com/intro-firebase-react/
 
-You can also put here your links of study to help your work fellows, just edit this **README.md**
+You can also put here your links of study to help your work fellows, just edit this [**README.md**](https://github.com/meteacolher/onboarding/blob/master/README.md)
 
 #### Our culture work:
 * Library:
